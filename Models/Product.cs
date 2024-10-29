@@ -8,7 +8,7 @@ namespace BestStoreMVC.Models
         public int Id { get; set; }
         [MaxLength(100)]
         public string Name { get; set; } = "";
-        [MaxLength(100)]
+        [MaxLength(150)]
         public string Brand { get; set; } = "";
         [MaxLength(100)]
         public string Category { get; set; } = "";
