@@ -24,6 +24,12 @@ namespace BestStoreMVC.Controllers
             return View();
         }
 
+
+        /// <summary>
+        /// news API
+        /// </summary>
+        /// <returns></returns>
+
         public async Task<IActionResult> News()
         {
 
