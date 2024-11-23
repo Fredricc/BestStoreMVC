@@ -26,7 +26,7 @@ namespace BestStoreMVC.Controllers
 
 
         /// <summary>
-        /// news API
+        /// Consuming news API
         /// </summary>
         /// <returns></returns>
 
