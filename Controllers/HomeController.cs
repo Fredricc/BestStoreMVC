@@ -28,7 +28,7 @@ namespace BestStoreMVC.Controllers
         /// <summary>
         /// Consuming news API
         /// </summary>
-        /// <returns></returns>
+        /// <returns>news controller</returns>
 
         public async Task<IActionResult> News()
         {
